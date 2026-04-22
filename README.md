@@ -6,10 +6,10 @@ A Boston University **BA820** group project applying unsupervised learning metho
 
 ## Team
 
-- Mika Ismayilli — `mikaism@bu.edu`
-- Akbar
-- Burak
-- Steven
+- Mika Ismayilli
+- Akbar Wibowo
+- Burak Ataseven
+- Steven Marathias
 
 ## Datasets
 
